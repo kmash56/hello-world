@@ -1,0 +1,6 @@
+Skills:
+
+- Java Programming
+- Communications
+- Version control with Git
+
